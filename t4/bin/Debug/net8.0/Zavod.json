@@ -1,0 +1,23 @@
+[
+  {
+    "Number": 1,
+    "Position": "Інженер",
+    "Experience": 5,
+    "Salary": 15000,
+    "Surname": "Худан"
+  },
+  {
+    "Number": 2,
+    "Position": "Технік",
+    "Experience": 3,
+    "Salary": 12000,
+    "Surname": "Федора"
+  },
+  {
+    "Number": 1,
+    "Position": "Майстер",
+    "Experience": 10,
+    "Salary": 20000,
+    "Surname": "Морозенко"
+  }
+]
